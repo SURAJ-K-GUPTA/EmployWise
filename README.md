@@ -90,12 +90,6 @@ yarn dev
 
 ---
 
-## 🛠️ **Troubleshooting**
-### ❓ *"Expected static flag was missing"* (React Internal Error)
-✅ Ensure that `useSelector` is used **inside the component**  
-✅ Check that **conditional rendering doesn't affect hooks**  
-
----
 
 ## 🎉 **Contributing**
 Feel free to fork and submit pull requests! 🚀
